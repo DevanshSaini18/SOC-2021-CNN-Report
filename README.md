@@ -1,1 +1,0 @@
-# SOC-2021-CNN-Report
