@@ -44,11 +44,6 @@ For loop for final training and calculating validation loss and updating
 
 
 
-
-
-
-
-
 CNN
 Why to use cnn rather than FC layers
 Feature mapping 
